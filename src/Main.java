@@ -15,7 +15,7 @@ public class Main {
         tarih=input.nextInt();
         System.out.println("Müzik notunuzu giriniz:");
         muzik=input.nextInt();
-        double ort=(mat+fizik+tarih+kimya+turkce+muzik)/6;
+        int ort=(mat+fizik+tarih+kimya+turkce+muzik)/6;
         System.out.println("Ders Ortalamanız:" +ort );
         String str= ort > 60 ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         System.out.println(str);
