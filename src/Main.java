@@ -20,5 +20,4 @@ public class Main {
         String userInfo= average > passPoint ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         System.out.println(userInfo);
 
-
     }}
