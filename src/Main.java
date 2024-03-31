@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Matematik notunuzu giriniz:");
         /* sout altına totalPoint+=input.nextInt();
-          bunun gibi bir sadece 1 satır girdi yapılabilir, fazla olunca çıktıda
+          bunun gibi sadece 1 satır girdi yapılabilir, fazla olunca çıktıda
          girdi sayısı kadar sayı girmeni ister */
 
         totalPoint+=input.nextInt();
