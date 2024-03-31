@@ -35,7 +35,6 @@ public class Main {
         userInfo= average > passPoint ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         //ternary operatör kullanımı üstteki gibi
 
-
         System.out.println(userInfo);
         //kodun okunması ve kullanışlı olması için alt kısımda rakam olmamasına dikkat et!
     }}
